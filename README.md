@@ -1,3 +1,8 @@
+# From onassar
+`sudo apt-get install libpng-dev` before trying to run  
+Make sure git directory is writable
+Make sure git directory has had `make` called in it (to create from binary)
+
 #pngquant 2
 
 This is the official `pngquant` and `libimagequant`.
