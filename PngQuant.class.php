@@ -18,6 +18,9 @@
      * PngQuant
      * 
      * @author  Oliver Nassar <onassar@gmail.com>
+     * @see     <https://github.com/onassar/pngquant>
+     * @see     <https://github.com/pornel/pngquant>
+     * @see     <http://pngquant.org/>
      */
     class PngQuant
     {
